@@ -1,0 +1,12 @@
+import numpy as np
+arr=np.array([1,2,3,4,5])
+arr2=np.array([1,2,3,4,5])
+print(arr+arr2)
+a=np.add(arr,arr2)
+print(a)
+s=np.square(arr,arr2)
+print(s)
+m=np.multiply(arr,arr2)
+print(m)
+d=np.divide(arr,arr2)
+print(d)
