@@ -1,0 +1,10 @@
+import numpy as np
+arr=np.array([1,2,3,4,5])
+new=np.append(arr,6)
+print(new)
+d=np.delete(arr,1)
+print(d)
+i=np.insert(arr,2,5)
+print(i)
+s=np.sort(arr)
+print(s)
