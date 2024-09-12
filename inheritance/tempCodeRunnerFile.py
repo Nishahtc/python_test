@@ -1,0 +1,1 @@
+print(dog.age)  # AttributeError: 'Dog' object has no attribute 'age'
